@@ -14,10 +14,14 @@ I will be breaking down my analysis into following steps:
 
 4] Predictive Analysis
 
+
+
+
+
 For now I will be using Following Machine Learning Algorithms:
 
-1] k-Means Clustering - for preliminary data analysis to find data discrepancy
+A] k-Means Clustering - for preliminary data analysis to find data discrepancy
 
-2] SVM Classification for predictive analysis
+B] SVM Classification for predictive analysis
 
-3] Random Forest for predictive analysis
+C] Random Forest for predictive analysis
